@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajmalsalam
 - 👀 I’m interested in coding and other coding activities
-- 🌱 I’m currently learning java and c
+- 🌱 I’m currently a python developer with a strong foundation in systemadministration.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :inst @_ajm.xl_
 
