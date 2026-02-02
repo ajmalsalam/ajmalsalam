@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajmalsalam
 - 👀 I’m interested in coding and other coding activities
-- 🌱 I’m currently a python developer with a strong foundation in systemadministration.
+- 🌱 I’m currently pursuing Cloud & Devops with a strong foundation in Linux and Devops tools.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :inst @_ajm.xl_
 
